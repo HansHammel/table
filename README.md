@@ -37,7 +37,7 @@ var options={
 	//jquery 选择器
 	element:'#list'
 };
-var pp=new List(options);
+var pp=new Table(options);
 
 ```
 
